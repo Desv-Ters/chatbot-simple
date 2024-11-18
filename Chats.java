@@ -1,6 +1,8 @@
-/* Modelo de Chatbot de Servicio al Cliente de la Tienda Tecnot de Ventas de Teléfonos móviles en Java. 
+/* Modelo de Chatbot de Servicio al Cliente en Java. 
 Por Teresa Baratta V26511450 AII UBA */
 /*Repositorio en Github https://github.com/Desv-Ters/chatbot-simple*/
+/*https://landbot.site/v3/H-2685211-QUPW1ODMHUETKHWH/index.html*/
+
 import java.util.Scanner; /* Esto permite obtener la entrada de datos primitivos.
 Para capturar los datos de tipo int, double, string y etc*/
 public class Chats {  /*Clase pública Chats*/
