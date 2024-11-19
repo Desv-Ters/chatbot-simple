@@ -1,6 +1,6 @@
 //Desarrollo de Chatbot en Java. Por Teresa Baratta V26511450. AII UBA.  Actividad Sumativa IV //
 // Demo del chatbot en Landbot : https://landbot.site/v3/H-2686237-YBJ4OEPE1OGWMCSL/index.html //
-// Repositorio del código en Github:  //
+// Repositorio del código en Github: https://github.com/Desv-Ters/chatbot-simple/tree/main //
 
 import java.util.Scanner; //Importa el scanner//
 public class Chats { //La clase es publica //
