@@ -22,7 +22,7 @@ public class Chats { //La clase es publica //
       return "Hola soy BEN en que puedo ayudarte?"; // El input es para la entrada de datos en este caso la conversación //
      } else if(input.contains("Tengo fallas en mi internet")){ 
          return "Entiendo. Propocionarme tú nombre y apellido para\n" + "revisar.."; // \n es para salto de linea en java//
-     } else if (input.contains("Mi nombre es Carl Josh")){
+     } else if (input.contains("Mi nombre es Teresa Baratta")){
         return "Revisando en el sistema encuentro\n" + "Que en tú zona hay mantenimiento entre\n." + "una hora se restablece, tienes otra preguntas o dudas?";
       } else if(input.contains("No, Gracias")){
         return "Bien. Gracias por tú panciencia. Feliz día";
